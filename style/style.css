@@ -1,0 +1,29 @@
+/* h1 {
+    text-align: center;
+    font-style: oblique;
+    font-size: 50px;
+    color:darkgreen
+}
+
+h2 {
+    text-align: center;
+} */
+
+/* .Btn
+{   text-align: center;
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    color:black;
+    background-color:lightskyblue;
+    font-style:initial;
+} */
+
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80")
+}
+#maintitle{
+    color:black;
+ 
+}
